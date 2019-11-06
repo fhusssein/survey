@@ -20,10 +20,8 @@ var json = {
                         "1750-1800", "1800-1850", "1850-1900", "1900-1950", "after 1950"
                     ],
                     correctAnswer: "1850-1900"
-                }
-            ]
-        }, {
-            questions: [
+                },
+         
                 {
                     type: "radiogroup",
                     name: "libertyordeath",
@@ -33,11 +31,7 @@ var json = {
                         "John Hancock", "James Madison", "Patrick Henry", "Samuel Adams"
                     ],
                     correctAnswer: "Patrick Henry"
-                }
-            ]
-        }, {
-            maxTimeToFinish: 15,
-            questions: [
+                },
                 {
                     type: "radiogroup",
                     name: "magnacarta",
