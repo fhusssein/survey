@@ -6,8 +6,7 @@ var json = {
     title: "American History",
     showProgressBar: "bottom",
     showTimerPanel: "top",
-    maxTimeToFinishPage: 10,
-    maxTimeToFinish: 25,
+    
     firstPageIsStarted: true,
     startSurveyText: "Start Quiz",
     pages: [
